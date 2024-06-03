@@ -11,7 +11,7 @@ def send_script(filename):
         response = requests.post(url, files=files)
         print("Server response:", response.text)
 
-if __name__ == '__main__':
-    send_script()
+# if __name__ == '__main__':
+#     send_script()
     
 # https://479f3ea6c9631.notebooksc.jarvislabs.net/
