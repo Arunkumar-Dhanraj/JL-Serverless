@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='jl-serverless',
-    version='0.1.0',
+    version='0.1.1',
     author='Arunkumar',
     author_email='arun19ict@gmail.com',
     description='A CLI tool to run scripts on a remote server.',
